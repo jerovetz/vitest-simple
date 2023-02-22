@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jerovetz.vitestsimple.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jerovetz.vitestsimple.MyBundle
 
 class MyApplicationService {
 
